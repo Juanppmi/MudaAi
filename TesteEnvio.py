@@ -7,6 +7,7 @@ match escolha:
 
     case "Gustavo":
         print("Gustavo:\n")
+        print("VI BRASIL:")
 
     case _:
         print("Opa chefia, se pa que tu errou o nome, letra maiscula importa.")
